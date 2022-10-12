@@ -1,5 +1,5 @@
 # Xunlu Wordpress开源主题
-* 本Wordpress主题以[牧风](https://mufeng.me/)大神的Kunkka 1.06为基础改进而来，经[Alatelee](http://agatelee.cn) 二次修改	，又经[神韵博客](https://51shenyun.cn) 三次修改，最后再经[寻路博客](https://www.xulu.net) 四次修改。
+* 本Wordpress主题以[牧风](https://mufeng.me/)大神的Kunkka 1.06为基础改进而来，经[Alatelee](http://agatelee.cn) 二次修改	，又经[神韵博客](https://51shenyun.cn) 三次修改，最后再经[寻路博客](http://www.xulu.net) 四次修改。
 * 牧风 github项目 已失效
 * Alatelee github项目 https://github.com/AgateLee/Kunkka
 * 神韵 github项目 https://github.com/ShenYun1/Kunkka
