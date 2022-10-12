@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Xunlu Wordpress开源主题
 * 本Wordpress主题以[牧风](https://mufeng.me/)大神的Kunkka 1.06为基础改进而来，经[Alatelee](http://agatelee.cn) 二次修改	，又经[神韵博客](https://51shenyun.cn) 三次修改，最后再经[寻路博客](http://www.xulu.net) 四次修改。
 * 牧风 github项目 已失效
@@ -6,6 +7,15 @@
 * 寻路博客 gitgub项目 https://github.com/reenva/Xunlu
 
 ![](screenshot.png)
+=======
+# Kunkka
+* 本Wordpress主题以[牧风](https://mufeng.me/)大神的Kunkka 1.06为基础改进而来，经[Alatelee](http://agatelee.cn) 二次修改	，又经[神韵博客](https://51shenyun.cn) 三次修改。
+* 牧风 github项目 已失效
+* Alatelee github项目 https://github.com/AgateLee/Kunkka
+* 神韵 github项目 https://github.com/ShenYun1/Kunkka
+
+
+>>>>>>> c505b433a7f1fa45d65159752d5bd001d78e8f97
 
 # ToDo
 
@@ -30,6 +40,10 @@
   * 备案号
 * 对于置顶的文章显示全文
 * 重新设计了404页面
+<<<<<<< HEAD
+=======
+  ![](public/images/404.png)
+>>>>>>> c505b433a7f1fa45d65159752d5bd001d78e8f97
 * 增加了表格样式
 * 增加了代码样式
 * 增加了友情链接页面
@@ -82,6 +96,7 @@
 * 移除侧边栏缓存 彻底解决安装主题后侧边栏不显示问题 如有需要请移至 (https://51shenyun.cn/wordpress_sidebar/)
 * 为字体加载过程增加font-display标签 以适应CSS递送优化
 * 小幅修改文章中段落间距
+<<<<<<< HEAD
 
 **v2.0.1_local_Xunlu**
 * 新增上传媒体库重命名为日期+随机数组格式
@@ -90,3 +105,5 @@
 * 给外部链接加上新窗口跳转
 * 优化文章页标题字号和间距
 * 修复小工具的显示效果
+=======
+>>>>>>> c505b433a7f1fa45d65159752d5bd001d78e8f97
