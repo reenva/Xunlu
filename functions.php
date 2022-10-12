@@ -11,8 +11,8 @@
 /**
  * Define constants
  */
-define( 'MUTHEME_NAME', 'Kunkka' );
-define( 'MUTHEME_VERSION', '1.2.2' );
+define( 'MUTHEME_NAME', 'Xunlu' );
+define( 'MUTHEME_VERSION', '2.0.1' );
 define( 'MUTHEME_PATH', dirname( __FILE__ ) );
 define( "MUTHEME_THEME_URL", get_bloginfo( 'template_directory' ) );
 //WordPress SSL at 2016/12/29 update

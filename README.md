@@ -4,7 +4,7 @@
 * Alatelee github项目 https://github.com/AgateLee/Kunkka
 * 神韵 github项目 https://github.com/ShenYun1/Kunkka
 
-
+![](screenshot.png)
 
 # ToDo
 
@@ -29,7 +29,6 @@
   * 备案号
 * 对于置顶的文章显示全文
 * 重新设计了404页面
-  ![](public/images/404.png)
 * 增加了表格样式
 * 增加了代码样式
 * 增加了友情链接页面
@@ -83,6 +82,9 @@
 * 为字体加载过程增加font-display标签 以适应CSS递送优化
 * 小幅修改文章中段落间距
 
-**v2.0.2_local_Xunlu**
-* 新增上传媒体库重命名为日期+md5格式
-* 
+**v2.0.1_local_Xunlu**
+* 新增上传媒体库重命名为日期+随机数组格式
+* 页面链接去除下划线
+* 新增底部友情链接
+* 给外部链接加上新窗口跳转
+* 优化文章页标题字号和间距
